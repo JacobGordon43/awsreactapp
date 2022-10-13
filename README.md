@@ -1,3 +1,4 @@
+A simple react app that will be deployed on AWS to learn how to use it.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
