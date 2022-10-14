@@ -17,9 +17,11 @@ const Header = () =>{
                 </ul>
                 <div className="search">
                     <input type="text" id="searchbar">Search an item</input>
-                    <button type="submit" id="searchButton">faMagnifyinGlass</button>
+                    <button type="submit" id="searchButton">{}</button>
+                    <button type="submit" id="searchButton">{faMagnifyinGlass}</button>
                 </div>
             </nav>
         </header>
     )
 }
+export default Header;
